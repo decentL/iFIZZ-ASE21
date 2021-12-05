@@ -6,7 +6,7 @@
 
 ## Docker Image
 
-The Docker image is available [COMING SOON (Google Drive)]().
+The Docker image is available [here (Google Drive)](https://drive.google.com/file/d/1QWua3q9QNSPpGzJn3JgGym1G31KUgokI/view?usp=sharing).
 
 ### Use the Docker Image
 
